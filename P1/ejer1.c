@@ -160,7 +160,7 @@ int main(){
 	mi_pausa();
 
 	//GETCHE
-	printf("\nFunción getche. Pulsa una tecla para que se vea en pantalla\t");
+	printf("\nFuncion getche. Pulsa una tecla para que se vea en pantalla\t");
 	mi_pausa();
 	printf("\nPulsa una tecla para continuar");
 	mi_pausa();
